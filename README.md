@@ -1,7 +1,7 @@
 # homework-2
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+the simple wage page reads the sum given n by n and tells you if the value is all intergers 
+as well as is one number is greater or equal or one is less than than the other number given 
 
 ## Prerequisites
 
@@ -47,8 +47,6 @@ Make use of the many generators for code, try `ember help generate` for more det
 ### Deploying
 
 Specify what it takes to deploy your app.
-the simple wage page reads the sum given n by n and tells you if the value is all intergers 
-as well as is one number is greater or equal or one is less than than the other number given 
 
 ## Further Reading / Useful Links
 
