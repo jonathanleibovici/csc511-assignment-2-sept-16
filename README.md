@@ -47,6 +47,8 @@ Make use of the many generators for code, try `ember help generate` for more det
 ### Deploying
 
 Specify what it takes to deploy your app.
+the simple wage page reads the sum given n by n and tells you if the value is all intergers 
+as well as is one number is greater or equal or one is less than than the other number given 
 
 ## Further Reading / Useful Links
 
